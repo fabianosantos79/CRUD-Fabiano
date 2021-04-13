@@ -1,0 +1,19 @@
+index.php
+será a tela de login do crud, terá um botão para cadastrar novo usuário
+
+lista.php
+Terá a lista com todos usuários e o botão para sair
+
+cadastrar.php
+tera o formulário de cadastro, ao criar o novo usuário direciona para o sistema no lista.php
+
+atualizar.php
+terá o formulário e irá exibir dentro dos campos os dados do usuário selecionado
+
+MODELS
+login
+update
+delete - *terá um modal perguntado se irá excluir
+insert
+read 
+sair
